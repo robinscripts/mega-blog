@@ -2,7 +2,7 @@ import Header from "./Headerf/header";
 import Footer from "./Footer/Footer";
 import Container from "./Container/Container";
 import Logo from "./Logo";
-import LogoutBtn from "./Header/LogoutBtn";
+import LogoutBtn from "./Headerf/LogoutBtn";
 import Select from "./Select";
 import RTE from "./RTE";
 import Signup from "./Signup";
